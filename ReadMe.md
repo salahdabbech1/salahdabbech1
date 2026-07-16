@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Revolutionary solution for Speech Pathologist, Patients and Parents<br>👯 I’m looking to collaborate on Mobile application projects or backend projects <br>🤝 I’m looking for help with product management, entrepreneurship, DevOps, cloud and getting into the GSOC program<br>🌱 I’m currently learning native and cross-platform mobile developpement, clean architecture and applying coding patterns<br>💬 Ask me about Perro, IEEE<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-dabbech) 
